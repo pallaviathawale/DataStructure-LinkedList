@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataStructure_LinkedList
 {
-    public class LinkedList
+    class LinkedList
     {
         internal Node head;
         internal void Add(int data)
@@ -41,5 +41,6 @@ namespace DataStructure_LinkedList
             }
         }
     }
+
 }
 
